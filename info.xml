@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdaptadorRed>
+	<IP>192.168.1.39</IP>
+	<Mascara>255.255.255.0</Mascara>
+	<PuertaDeEnlace>192.168.1.1</PuertaDeEnlace>
+	<ServidorDNS>80.58.61.254</ServidorDNS>
+	<VelocidadRespuestaDNS>3ms</VelocidadRespuestaDNS>
+	<NumeroSaltos>8</NumeroSaltos>
+	<IpSaltos>
+		<Salto>Salto 1: 192.168.1.1</Salto>
+		<Salto>Salto 2: 81.46.38.165</Salto>
+		<Salto>Salto 3: 81.46.34.201</Salto>
+		<Salto>Salto 4: 81.46.44.45</Salto>
+		<Salto>Salto 5: 81.46.34.138</Salto>
+		<Salto>Salto 6: 81.46.34.38</Salto>
+		<Salto>Salto 7: esta</Salto>
+		<Salto>Salto 8: 80.58.61.254</Salto>
+		<Salto>Salto 8: 80.58.61.254</Salto>
+	</IpSaltos>
+</AdaptadorRed>

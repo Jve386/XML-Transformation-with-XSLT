@@ -1,0 +1,13 @@
+
+Traza a 80.58.61.254 sobre caminos de 30 saltos como m ximo.
+
+  1    <1 ms    <1 ms     1 ms  192.168.1.1 
+  2     1 ms    <1 ms     2 ms  81.46.38.165 
+  3     2 ms     1 ms     2 ms  81.46.34.201 
+  4     5 ms     2 ms     2 ms  81.46.44.45 
+  5     4 ms     2 ms     2 ms  81.46.34.138 
+  6     4 ms     2 ms     1 ms  81.46.34.38 
+  7     *        *        *     Tiempo de espera agotado para esta solicitud.
+  8     2 ms     2 ms     3 ms  80.58.61.254 
+
+Traza completa.

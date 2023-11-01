@@ -1,0 +1,36 @@
+
+Haciendo ping a 80.58.61.254 con 32 bytes de datos:
+Respuesta desde 80.58.61.254: bytes=32 tiempo=2ms TTL=57
+Respuesta desde 80.58.61.254: bytes=32 tiempo=3ms TTL=57
+Respuesta desde 80.58.61.254: bytes=32 tiempo=2ms TTL=57
+Respuesta desde 80.58.61.254: bytes=32 tiempo=2ms TTL=57
+
+Estad¡sticas de ping para 80.58.61.254:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 2ms, M ximo = 3ms, Media = 2ms
+
+Haciendo ping a 80.58.61.254 con 32 bytes de datos:
+Respuesta desde 80.58.61.254: bytes=32 tiempo=2ms TTL=57
+Respuesta desde 80.58.61.254: bytes=32 tiempo=2ms TTL=57
+Respuesta desde 80.58.61.254: bytes=32 tiempo=3ms TTL=57
+Respuesta desde 80.58.61.254: bytes=32 tiempo=2ms TTL=57
+
+Estad¡sticas de ping para 80.58.61.254:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 2ms, M ximo = 3ms, Media = 2ms
+
+Haciendo ping a 80.58.61.254 con 32 bytes de datos:
+Respuesta desde 80.58.61.254: bytes=32 tiempo=2ms TTL=57
+Respuesta desde 80.58.61.254: bytes=32 tiempo=7ms TTL=57
+Respuesta desde 80.58.61.254: bytes=32 tiempo=2ms TTL=57
+Respuesta desde 80.58.61.254: bytes=32 tiempo=2ms TTL=57
+
+Estad¡sticas de ping para 80.58.61.254:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 2ms, M ximo = 7ms, Media = 3ms
